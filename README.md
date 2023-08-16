@@ -1,3 +1,3 @@
-# mcm-cosc-1306-fall-2023-week1
+# mcm-cosc-2350-fall-2023-week1
 
-Complete the greetings.py file
+Complete the Greetings.java file
