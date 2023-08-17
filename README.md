@@ -1,3 +1,3 @@
-# mcm-cosc-2350-fall-2023-week1
+# mcm-cosc-2370-fall-2023-week1
 
-Complete the Greetings.java file
+Complete the 4bit and 5bit truth table file.
